@@ -80,4 +80,4 @@ discord.on("message", message => {
        setInterval(async () => { await message.channel.send(oyun);}, 10);
         } 
 });
-discord.login("NTA0MDk1NTc3MjE5MjY4NjE4.DrDRLw.d9HOyj9N_gch6J0eupTbYMBxAVk")
+discord.login("")
